@@ -6,16 +6,16 @@
 Install the gem from the command line:
 
 ```bash
-gem install taha-qa-sdk -v 1.2.3
+gem install taha-qa-sdk -v 1.5.6
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'taha-qa-sdk', '1.2.3'
+gem 'taha-qa-sdk', '1.5.6'
 ```
 
-For additional gem details, see the [RubyGems page for the taha-qa-sdk gem](https://rubygems.org/gems/taha-qa-sdk/versions/1.2.3).
+For additional gem details, see the [RubyGems page for the taha-qa-sdk gem](https://rubygems.org/gems/taha-qa-sdk/versions/1.5.6).
 
 ## Test the SDK
 
@@ -27,7 +27,7 @@ rake
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -56,17 +56,17 @@ client = TestApi::Client.new(
 
 ## List of APIs
 
-* [API](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/controllers/api.md)
+* [API](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/controllers/api.md)
 
 ## SDK Infrastructure
 
 ### HTTP
 
-* [HttpResponse](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/http-response.md)
-* [HttpRequest](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/http-response.md)
+* [HttpRequest](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/http-request.md)
 
 ### Utilities
 
-* [ApiHelper](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/api-helper.md)
-* [DateTimeHelper](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.2.3/doc/date-time-helper.md)
+* [ApiHelper](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/api-helper.md)
+* [DateTimeHelper](https://www.github.com/tahaali2000/taha-qa-ruby-sdk/tree/1.5.6/doc/date-time-helper.md)
 

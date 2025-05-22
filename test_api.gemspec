@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'taha-qa-sdk'
-  s.version = '1.2.3'
+  s.version = '1.5.6'
   s.summary = 'qa'
   s.description = 'taha qa'
   s.authors = ['taha qa']
